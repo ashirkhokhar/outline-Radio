@@ -5,7 +5,7 @@
  * Arranged by outline radio <escucho@outlineradio.com> on 09.23.2023.
  */
 
-class Language {
+class Language {///
   // Greetings
   static const goodMorning = '¡Un día bueno!';
   static const goodAfternoon = '¡Una tarde buena!';
