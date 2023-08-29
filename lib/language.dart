@@ -15,7 +15,7 @@ class Language {
   static const sleepTimer = 'Timer';
   static const timeLeft = 'Tiempo dejado';
   static const startTimer = 'Empieza Timer';
-  static const stopTimer = 'Detén Timer';
+  static const stopTimer = 'Detén Timer'; //bb
 
   // About Us
   static const aboutUs = 'Acerca';
